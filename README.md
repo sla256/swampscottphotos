@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+### A view from Fisherman's Beach
+![A view from Fisherman's Beach](img/fisherman-beach.jpg)
+---
 
-You can use the [editor on GitHub](https://github.com/sla256/swampscottphotos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Town hall in the fall
+![Town hall in the fall](img/townhall-fall.jpg)
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Yacht club pier - a day after the snowstorm
+![Yacht club pier - a day after the snowstorm](img/yacht-club-pier-snow.jpg)
+---
 
-### Markdown
+### Old furniture store
+![Old furniture store](img/old-furniture-store.jpg)
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Town hall after the snowstorm
+![Town hall after the snowstorm](img/townhall-winter.jpg)
+---
 
-```markdown
-Syntax highlighted code block
+### Swampscott Middle School
+![Swampscott Middle School](img/middle-school-snow.jpg)
+---
 
-# Header 1
-## Header 2
-### Header 3
+### Forest Ave
+![Forest Ave](img/forest-ave-winter.jpg)
+---
 
-- Bulleted
-- List
+### Swampscott High School
+![Swampscott High School](img/high-school.jpg)
+---
 
-1. Numbered
-2. List
+### Swampscott Stanley School
+![Swampscott Stanley School](img/stanley-school-winter.jpg)
+---
 
-**Bold** and _Italic_ and `Code` text
+### Blocksidge Field - Winter Sunrise
+![Blocksidge Field - Winter Sunrise](img/blocksidge-winter.jpg)
+---
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sla256/swampscottphotos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mission on the Bay at night
+![Mission on the Bay at night](img/mission-on-the-bay-night.jpg)
+---
