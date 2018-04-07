@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Photos of Swampscott, MA
+permalink: index.html
 ---
 
 ### A view from Fisherman's Beach
