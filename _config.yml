@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 title: Photos of Swampscott, MA
 description: Photographs of landmarks and historic places in Swampscott, MA
 show_downloads: false
