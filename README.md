@@ -4,19 +4,11 @@ title: Photos of Swampscott, MA
 permalink: index.html
 ---
 
-### A view from Fisherman's Beach
-![A view from Fisherman's Beach](img/fisherman-beach.jpg)
-
----
-
-
 
 ### Town hall in the fall
 ![Town hall in the fall](img/townhall-fall.jpg)
 
 ---
-
-
 
 
 ### Yacht club pier - a day after the snowstorm
