@@ -1,6 +1,6 @@
 ---
-layout:post
-title:A view from Fisherman's Beach
+layout: post
+title: A view from Fisherman's Beach
 ---
 
 
