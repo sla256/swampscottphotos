@@ -7,14 +7,22 @@ permalink: index.html
 ### A view from Fisherman's Beach
 ![A view from Fisherman's Beach](img/fisherman-beach.jpg)
 
+---
+
 ### Town hall in the fall
 ![Town hall in the fall](img/townhall-fall.jpg)
+
+___
 
 ### Yacht club pier - a day after the snowstorm
 ![Yacht club pier - a day after the snowstorm](img/yacht-club-pier-snow.jpg)
 
+***
+
 ### Old furniture store
 ![Old furniture store](img/old-furniture-store.jpg)
+
+<hr />
 
 ### Town hall after the snowstorm
 ![Town hall after the snowstorm](img/townhall-winter.jpg)
