@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Linscott Park Pavilion
+title: Linscott Park - Pavilion
 ---
 
 
-![Linscott Park Pavilion](/img/linscott-park-pavilion.jpg)
+![Linscott Park - Pavilion](/img/linscott-park-pavilion.jpg)
