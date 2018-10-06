@@ -4,4 +4,4 @@ title: Vinnin Square Plaza
 ---
 
 
-![Vinnin Square Plaza](/img/swampscott-vinnin-square.jpg.jpg)
+![Vinnin Square Plaza](/img/swampscott-vinnin-square.jpg)
