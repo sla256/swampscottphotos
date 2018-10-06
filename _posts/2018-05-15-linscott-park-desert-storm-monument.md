@@ -4,4 +4,4 @@ title: Linscott Park - Desert Storm Monument
 ---
 
 
-![Linscott Park - Desert Storm Monument](/img/linscott-park-desert-storm-monument.jpg)
+![Linscott Park - Swampscott Desert Shield Desert Storm Monument](/img/linscott-park-desert-storm-monument.jpg)
