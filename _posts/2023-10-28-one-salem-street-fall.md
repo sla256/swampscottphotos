@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Swampscott One Salem Street - Fall
+title: Swampscott One Salem street in the fall
 ---
 
 
-![Swampscott One Salem Street - Fall](/img/one-salem-street-fall.jpg)
+![Swampscott One Salem street in the fall](/img/one-salem-street-fall.jpg)

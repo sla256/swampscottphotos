@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Swampscott Phillips Beach Toy Swap
+title: Swampscott Phillips beach toy swap
 ---
 
 
-![Swampscott Phillips Beach Toy Swap](/img/beach-toy-swap-philips.jpg)
+![Swampscott Phillips veach toy swap](/img/beach-toy-swap-philips.jpg)
